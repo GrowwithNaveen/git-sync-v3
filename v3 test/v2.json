@@ -11,16 +11,16 @@
           "isMaintenanceOn": false,
           "icon": "sentfast",
           "organizationId": "f2a832bb-fc39-49c5-be7f-7037ebb79b84",
-          "currentVersionId": null,
+          "currentVersionId": "715c093a-f579-4d59-b28f-25116d756b92",
           "userId": "258503d8-d62d-462d-896f-09fe2e55a83a",
           "workflowApiToken": null,
           "workflowEnabled": false,
           "createdAt": "2024-11-13T13:12:17.210Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2024-11-13T13:12:17.209Z",
+          "updatedAt": "2024-11-14T05:42:04.544Z",
           "editingVersion": {
-            "id": "715c093a-f579-4d59-b28f-25116d756b92",
-            "name": "v1",
+            "id": "6af2e068-6701-4205-87b5-d2cc3e31d760",
+            "name": "v2",
             "definition": null,
             "globalSettings": {
               "hideHeader": false,
@@ -34,27 +34,27 @@
             },
             "pageSettings": null,
             "showViewerNavigation": true,
-            "homePageId": "85b2b7f0-767e-484e-94ae-3a2254f72fc2",
+            "homePageId": "e100bbad-d63d-4b2a-9f1e-347ce9f9028a",
             "appId": "e0ea4a77-6cf8-48f3-a767-e49f300dc078",
-            "currentEnvironmentId": "1071e258-9bd6-496c-a11c-9fe8670eedcc",
+            "currentEnvironmentId": "5b7f33b3-b9a9-43b0-a9b2-82bb37fca4d4",
             "promotedFrom": null,
-            "createdAt": "2024-11-13T13:12:17.221Z",
-            "updatedAt": "2024-11-14T05:41:45.163Z"
+            "createdAt": "2024-11-14T05:42:20.571Z",
+            "updatedAt": "2024-11-14T05:42:20.537Z"
           },
           "components": [],
           "pages": [
             {
-              "id": "85b2b7f0-767e-484e-94ae-3a2254f72fc2",
+              "id": "e100bbad-d63d-4b2a-9f1e-347ce9f9028a",
               "name": "Home",
               "handle": "home",
               "index": 1,
               "disabled": null,
               "hidden": null,
               "icon": null,
-              "createdAt": "2024-11-13T13:12:17.209Z",
-              "updatedAt": "2024-11-13T13:12:19.307Z",
-              "autoComputeLayout": true,
-              "appVersionId": "715c093a-f579-4d59-b28f-25116d756b92",
+              "createdAt": "2024-11-14T05:42:20.537Z",
+              "updatedAt": "2024-11-14T05:42:21.369Z",
+              "autoComputeLayout": false,
+              "appVersionId": "6af2e068-6701-4205-87b5-d2cc3e31d760",
               "pageGroupIndex": 1,
               "pageGroupId": null,
               "isPageGroup": false
@@ -65,8 +65,8 @@
           "dataSources": [],
           "appVersions": [
             {
-              "id": "715c093a-f579-4d59-b28f-25116d756b92",
-              "name": "v1",
+              "id": "6af2e068-6701-4205-87b5-d2cc3e31d760",
+              "name": "v2",
               "definition": null,
               "globalSettings": {
                 "hideHeader": false,
@@ -80,12 +80,12 @@
               },
               "pageSettings": null,
               "showViewerNavigation": true,
-              "homePageId": "85b2b7f0-767e-484e-94ae-3a2254f72fc2",
+              "homePageId": "e100bbad-d63d-4b2a-9f1e-347ce9f9028a",
               "appId": "e0ea4a77-6cf8-48f3-a767-e49f300dc078",
-              "currentEnvironmentId": "1071e258-9bd6-496c-a11c-9fe8670eedcc",
+              "currentEnvironmentId": "5b7f33b3-b9a9-43b0-a9b2-82bb37fca4d4",
               "promotedFrom": null,
-              "createdAt": "2024-11-13T13:12:17.221Z",
-              "updatedAt": "2024-11-14T05:41:45.163Z"
+              "createdAt": "2024-11-14T05:42:20.571Z",
+              "updatedAt": "2024-11-14T05:42:20.537Z"
             }
           ],
           "appEnvironments": [
