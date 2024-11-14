@@ -9,10 +9,10 @@
   },
   "e0ea4a77-6cf8-48f3-a767-e49f300dc078": {
     "gitAppName": "v3 test",
-    "lastCommitMessage": " v2 Version of app v3 test promoted from development to staging",
-    "gitVersionId": "6af2e068-6701-4205-87b5-d2cc3e31d760",
-    "lastpushDate": "2024-11-14T05:52:05.629Z",
-    "gitVersionName": "v2",
+    "lastCommitMessage": "Version v3 Created of app v3 test",
+    "gitVersionId": "9d1b4151-bca1-413e-a334-5bb2697bb01e",
+    "lastpushDate": "2024-11-14T05:52:55.758Z",
+    "gitVersionName": "v3",
     "lastCommitUser": "naveen "
   }
 }
