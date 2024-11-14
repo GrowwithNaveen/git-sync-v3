@@ -9,9 +9,9 @@
   },
   "e0ea4a77-6cf8-48f3-a767-e49f300dc078": {
     "gitAppName": "v3 test",
-    "lastCommitMessage": "test commit",
+    "lastCommitMessage": " v1 Version of app v3 test promoted from development to staging",
     "gitVersionId": "715c093a-f579-4d59-b28f-25116d756b92",
-    "lastpushDate": "2024-11-14T05:41:28.440Z",
+    "lastpushDate": "2024-11-14T05:41:47.008Z",
     "gitVersionName": "v1",
     "lastCommitUser": "naveen "
   }
