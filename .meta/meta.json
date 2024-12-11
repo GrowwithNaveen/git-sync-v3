@@ -14,5 +14,13 @@
     "lastpushDate": "2024-11-14T06:05:34.704Z",
     "gitVersionName": "v5",
     "lastCommitUser": "naveen "
+  },
+  "05f4c211-f45e-42f7-b7d4-ac46e7ec2c0f": {
+    "gitAppName": "Applicant tracking system -Test Git sync",
+    "lastCommitMessage": " v4 Version of app Applicant tracking system -Test Git sync promoted from development to staging",
+    "gitVersionId": "ad430f53-4817-4173-aaa1-4df546a204b3",
+    "lastpushDate": "2024-12-11T07:29:43.441Z",
+    "gitVersionName": "v4",
+    "lastCommitUser": "naveen "
   }
 }
