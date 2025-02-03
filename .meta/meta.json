@@ -33,10 +33,10 @@
   },
   "fc6726a2-4769-4b35-bac6-0c1a1d83dfa3": {
     "gitAppName": "Admin portal -test",
-    "lastCommitMessage": " v3 Prod Fix Version of app Admin portal -test promoted from development to staging",
-    "gitVersionId": "d9aa697b-796c-4417-9fc8-24bf4ead067c",
-    "lastpushDate": "2025-02-03T13:24:52.230Z",
-    "gitVersionName": "v3 Prod Fix",
+    "lastCommitMessage": "Version v4 Created of app Admin portal -test",
+    "gitVersionId": "1afc8c16-be07-4cda-84d3-5f79641d4608",
+    "lastpushDate": "2025-02-03T13:25:15.280Z",
+    "gitVersionName": "v4",
     "lastCommitUser": "naveen "
   }
 }
