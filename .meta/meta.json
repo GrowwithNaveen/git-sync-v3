@@ -41,10 +41,10 @@
   },
   "1cfc6a7a-717c-4c37-8f60-94f1f8cdec3b": {
     "gitAppName": "Git test -Base64 encoder & decoder",
-    "lastCommitMessage": " v1 Version of app Git test -Base64 encoder & decoder promoted from development to staging",
-    "gitVersionId": "7e8d7650-127b-46d4-a6c1-a5cbc84609da",
-    "lastpushDate": "2025-02-04T04:35:26.170Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "Manual Push",
+    "gitVersionId": "45d0dacc-aa5e-42f5-99c9-5e797d5183aa",
+    "lastpushDate": "2025-02-04T04:36:22.698Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "naveen "
   }
 }
