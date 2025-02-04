@@ -43,10 +43,10 @@
             "showViewerNavigation": true,
             "homePageId": "c095ccb5-e64c-4bde-8c81-eb8f774099b4",
             "appId": "1cfc6a7a-717c-4c37-8f60-94f1f8cdec3b",
-            "currentEnvironmentId": "5b7f33b3-b9a9-43b0-a9b2-82bb37fca4d4",
+            "currentEnvironmentId": "1071e258-9bd6-496c-a11c-9fe8670eedcc",
             "promotedFrom": null,
             "createdAt": "2025-02-04T04:34:59.302Z",
-            "updatedAt": "2025-02-04T04:34:59.651Z"
+            "updatedAt": "2025-02-04T04:35:23.170Z"
           },
           "components": [
             {
@@ -1240,23 +1240,6 @@
           ],
           "events": [
             {
-              "id": "e89d24ed-d781-4816-8f94-45f64f777485",
-              "name": "onClick",
-              "index": 0,
-              "event": {
-                "eventId": "onClick",
-                "message": "Hello world!",
-                "actionId": "copy-to-clipboard",
-                "alertType": "info",
-                "contentToCopy": "{{queries.encodeTextToBase64.data.encodedValue}}"
-              },
-              "sourceId": "5876cd2a-ebfc-4a77-9823-148e39ae48aa",
-              "target": "component",
-              "appVersionId": "7e8d7650-127b-46d4-a6c1-a5cbc84609da",
-              "createdAt": "2025-02-04T04:34:59.307Z",
-              "updatedAt": "2025-02-04T04:34:59.307Z"
-            },
-            {
               "id": "b047e467-2241-47f4-869f-eb4eadd91395",
               "name": "onClick",
               "index": 0,
@@ -1338,6 +1321,23 @@
               "appVersionId": "7e8d7650-127b-46d4-a6c1-a5cbc84609da",
               "createdAt": "2025-02-04T04:34:59.307Z",
               "updatedAt": "2025-02-04T04:34:59.635Z"
+            },
+            {
+              "id": "e89d24ed-d781-4816-8f94-45f64f777485",
+              "name": "onClick",
+              "index": 0,
+              "event": {
+                "eventId": "onClick",
+                "message": "Hello world!",
+                "actionId": "copy-to-clipboard",
+                "alertType": "info",
+                "contentToCopy": "{{queries.encodeTextToBase64.data.encodedValue}}"
+              },
+              "sourceId": "5876cd2a-ebfc-4a77-9823-148e39ae48aa",
+              "target": "component",
+              "appVersionId": "7e8d7650-127b-46d4-a6c1-a5cbc84609da",
+              "createdAt": "2025-02-04T04:34:59.307Z",
+              "updatedAt": "2025-02-04T04:34:59.307Z"
             }
           ],
           "dataQueries": [
@@ -1456,10 +1456,10 @@
               "showViewerNavigation": true,
               "homePageId": "c095ccb5-e64c-4bde-8c81-eb8f774099b4",
               "appId": "1cfc6a7a-717c-4c37-8f60-94f1f8cdec3b",
-              "currentEnvironmentId": "5b7f33b3-b9a9-43b0-a9b2-82bb37fca4d4",
+              "currentEnvironmentId": "1071e258-9bd6-496c-a11c-9fe8670eedcc",
               "promotedFrom": null,
               "createdAt": "2025-02-04T04:34:59.302Z",
-              "updatedAt": "2025-02-04T04:34:59.651Z"
+              "updatedAt": "2025-02-04T04:35:23.170Z"
             }
           ],
           "appEnvironments": [
